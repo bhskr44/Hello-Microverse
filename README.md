@@ -4,6 +4,12 @@
 
 > This is the first project given by microverse. This is now uploaded in the GITHUB for review, this project is to understand the process of github.com and develop a project professionally.
 
+:heavy_check_mark: A .html File added
+:heavy_check_mark: A .css file added
+:heavy_check_mark: Linters added
+:heavy_check_mark: .gitignore file added
+:heavy_check_mark: Description for the project is added
+
 ## Built With
 
 - Major languages : HTML, JavaScript, CSS
