@@ -2,66 +2,47 @@
 
 # Hello Microverse
 
-> Description the project.
+> This is the first project given by microverse. This is now uploaded in the GITHUB for review, this project is to understand the process of github.com and develop a project professionally.
 
+:heavy_check_mark: A .html File added
+:heavy_check_mark: A .css file added
+:heavy_check_mark: Linters added
+:heavy_check_mark: .gitignore file added
+:heavy_check_mark: Description for the project is added
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Major languages : HTML, JavaScript, CSS
+- Frameworks: No frameworks used
+- Technologies used: HTML, CSS, GIT, Linters
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+No specific requirements are required for this repository.
+
 ### Setup
+
+A browser is required to be installed for view the contents and an Code editor to edit the code.
 
 ### Install
 
-### Usage
-
-### Run tests
+Clone the repository and and use a browser to open the index.html to view the contents.
 
 ### Deployment
 
-
+The HTML files can be deployed using the LAMP for more details (https://lakebrains.com/how-to-deploy-single-website-using-lamp-on-ubuntu-server/)
 
 ## Authors
 
 👤 **Bhaskar Ranjan Bora**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- GitHub: [@bhskr44](https://github.com/bhskr44)
+- Twitter: [@bhskr44](https://twitter.com/bhskr44)
+- LinkedIn: [bhskr44](https://linkedin.com/in/bhskr44)
 
 ## 📝 License
 
